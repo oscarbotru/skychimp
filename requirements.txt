@@ -1,0 +1,5 @@
+django
+django-crontab
+flake8
+psycopg2-binary
+python-dotenv
